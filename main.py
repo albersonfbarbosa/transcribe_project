@@ -108,4 +108,4 @@ if __name__ == "__main__":
     input_file = "/Users/albersonferreira/Downloads/Entrevistas/Gravações/2.[André Santos][07-jun-2024][on-line][laptop].m4a"
     # camimho de armazenamento da transcrição
     output_file = "./AndreSantos.txt"
-    main(input_file, output_file)
+    main(input_file, output_file
